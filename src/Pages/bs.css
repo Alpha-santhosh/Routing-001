@@ -1,0 +1,23 @@
+.building {
+  width: 100vw;
+}
+
+.bs_img_holder {
+  width: 100vw;
+  height: 100vh;
+}
+
+.bs_img {
+  width: 100%;
+  height: 100%;
+}
+
+.bs_content {
+  margin-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.bs_h1 {
+  color: rgb(89, 106, 255);
+}

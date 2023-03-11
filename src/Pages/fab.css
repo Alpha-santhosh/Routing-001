@@ -1,0 +1,11 @@
+.fabsystem {
+  width: 100vw;
+  padding-top: 200px;
+  padding-inline: 125px;
+  padding-bottom: 50px;
+}
+
+.fab_h1 {
+  font-size: 50px;
+  color: rgb(89, 106, 255);
+}

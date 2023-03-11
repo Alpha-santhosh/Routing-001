@@ -1,0 +1,104 @@
+.navbar {
+  width: 100vw;
+  position: fixed;
+  background-color: white;
+  padding-bottom: 25px;
+}
+
+header {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 20px;
+  flex-wrap: wrap;
+  width: 100vw;
+  background-color: white;
+}
+
+.Con {
+  line-height: 1.8;
+  color: #0000ee;
+  margin-inline: 10px;
+  font-size: 16px;
+  text-decoration: underline;
+}
+
+img {
+  height: 70px;
+}
+
+nav {
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-inline: 110px;
+  box-sizing: border-box;
+  background-color: white;
+}
+
+ul {
+  display: flex;
+  position: relative;
+}
+
+li {
+  list-style: none;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 0px 25px;
+  cursor: pointer;
+  line-height: 1.2;
+  color: black;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.navbtn {
+  background-color: #596aff;
+  color: white;
+  display: inline-block;
+  height: max-content;
+  padding: 13px 30px;
+  border: 1.5px solid white;
+  line-height: 1.2;
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 16px;
+  border-radius: 45px;
+  outline: none;
+  transition: all 0.2s ease-in-out;
+}
+
+.navbtn:hover {
+  background-color: white;
+  border: none;
+  outline: none;
+  color: black;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  z-index: 1;
+  background-color: white;
+  width: max-content;
+  padding: 20px 20px;
+  border-radius: 10px;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.li {
+  padding: 10px;
+  display: block;
+}

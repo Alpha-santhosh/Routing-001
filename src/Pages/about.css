@@ -1,0 +1,66 @@
+.about {
+  width: 100vw;
+}
+
+.img {
+  width: 100vw;
+  height: 100vh;
+}
+
+.about_img {
+  width: 100%;
+  height: 100%;
+}
+
+.content {
+  padding-left: 30px;
+  padding-right: 30px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.about_h1 {
+  text-align: center;
+  font-size: 50px;
+  display: block;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  color: black;
+}
+
+.para {
+  text-align: justify;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.pabout_p {
+  text-align: justify;
+  padding: 0px 100px;
+}
+
+.vision {
+  box-sizing: border-box;
+  margin: 50px 0px 0px;
+  min-width: 0px;
+  text-align: center;
+}
+
+.msg {
+  box-sizing: border-box;
+  margin: 50px 0px 0px;
+  min-width: 0px;
+  text-align: center;
+}
+
+.about_v{
+  color: black
+}
+
+.mid{
+  margin-bottom: 50px;
+}

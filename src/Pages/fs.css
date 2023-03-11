@@ -1,0 +1,17 @@
+.firesystem {
+  width: 100vw;
+}
+
+.fs_img_holder{
+    width: 100vw;
+    height: 100vh;
+}
+
+.fs_img{
+    width: 100%;
+    height: 100%;
+}
+
+.fs_content{
+    padding: 100px;
+}

@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Routing-001/static/css/main.978949d2.css",
+    "main.js": "/Routing-001/static/js/main.32707c0f.js",
+    "static/media/footer.png": "/Routing-001/static/media/footer.cf7fcb5228db36a5800e.png",
+    "index.html": "/Routing-001/index.html",
+    "main.978949d2.css.map": "/Routing-001/static/css/main.978949d2.css.map",
+    "main.32707c0f.js.map": "/Routing-001/static/js/main.32707c0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.978949d2.css",
+    "static/js/main.32707c0f.js"
+  ]
+}
